@@ -1,8 +1,5 @@
 # 🛒 Blinkit Sales Insights Dashboard (Power BI)
 
-## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
-
 ---
 
 ## 📌 Project Overview
@@ -72,7 +69,14 @@ This project focuses on analyzing Blinkit’s retail sales data to uncover key b
 - `dashboard.png` (dashboard preview image)  
 
 ---
+## 📊 Dashboard Preview
 
+<img width="1227" height="716" alt="Screenshot 2026-04-10 185428" src="https://github.com/user-attachments/assets/1c5c3bca-1452-4f45-bc04-485c6d2f5256" />
+
+
+
+
+---
 ## 📌 Conclusion
 This project demonstrates how data analytics and visualization can help businesses identify growth opportunities, improve customer satisfaction, and optimize operational performance.
 
